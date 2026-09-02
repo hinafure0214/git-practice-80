@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-main branch
-=======
 develop branch
->>>>>>> 886f4b0 (develop practice14)
